@@ -17,10 +17,10 @@
   },
   {
     "id": "lifeforge--api-endpoint-explorer",
-    "repo": "Lifeforge-app/lifeforge-module-apiEndpointExplorer",
+    "repo": "Lifeforge-app/lifeforge-module-api-endpoint-explorer",
     "latest": "0.0.1",
     "versions": {
-      "0.0.1": "50950889bd86cfec16f091c890476d86a5bb9394"
+      "0.0.1": "4afc944c92b2bd70da3a84c3fa267a079315b95f"
     }
   },
   {
@@ -33,10 +33,10 @@
   },
   {
     "id": "lifeforge--books-library",
-    "repo": "Lifeforge-app/lifeforge-module-booksLibrary",
+    "repo": "Lifeforge-app/lifeforge-module-books-library",
     "latest": "0.0.1",
     "versions": {
-      "0.0.1": "18573b5b60dcd6ec316d41119b17f20d08653eef"
+      "0.0.1": "90f3687689a834ff6aeb9fd0fbb9a891a009e673"
     }
   },
   {
@@ -49,50 +49,50 @@
   },
   {
     "id": "lifeforge--cfop-algorithms",
-    "repo": "Lifeforge-app/lifeforge-module-cfopAlgorithms",
+    "repo": "Lifeforge-app/lifeforge-module-cfop-algorithms",
     "latest": "0.0.1",
     "versions": {
-      "0.0.1": "d6add478cdadca59c9bfdf2e657a066fe74fa3e7"
+      "0.0.1": "d63c56a97b968f8d0f70e6bd20cf8577818ccb76"
     }
   },
   {
     "id": "lifeforge--changi-airport-flight-status",
-    "repo": "Lifeforge-app/lifeforge-module-changiAirportFlightStatus",
+    "repo": "Lifeforge-app/lifeforge-module-changi-airport-flight-status",
     "latest": "0.0.1",
     "versions": {
-      "0.0.1": "220405afe2dbb79a691ec72a81171d9ad42d22b8"
+      "0.0.1": "950097c201d478e19d41dad538b6dc403e4a9829"
     }
   },
   {
     "id": "lifeforge--code-time",
-    "repo": "Lifeforge-app/lifeforge-module-codeTime",
+    "repo": "Lifeforge-app/lifeforge-module-code-time",
     "latest": "0.0.1",
     "versions": {
-      "0.0.1": "ebeef4ca6c37fd31aa1c9e21fbeb5ec09577c13f"
+      "0.0.1": "e2f727d6af91d2f06bd2521400d8782500bdcd59"
     }
   },
   {
     "id": "lifeforge--currency-converter",
-    "repo": "Lifeforge-app/lifeforge-module-currencyConverter",
+    "repo": "Lifeforge-app/lifeforge-module-currency-converter",
     "latest": "0.0.1",
     "versions": {
-      "0.0.1": "4e42684698b23c76af296b31d91b6bdacceb9401"
+      "0.0.1": "39d5df00fe5ebc11a2c58325e3b3e4b3a4cfec62"
     }
   },
   {
     "id": "lifeforge--guitar-tuner",
-    "repo": "Lifeforge-app/lifeforge-module-guitarTuner",
+    "repo": "Lifeforge-app/lifeforge-module-guitar-tuner",
     "latest": "0.0.1",
     "versions": {
-      "0.0.1": "ea87481f9fbd22dfb6b1d5b391b06f42f35cf272"
+      "0.0.1": "8431e638c65d785a8bd0fa69a77a0fc707ac203a"
     }
   },
   {
     "id": "lifeforge--idea-box",
-    "repo": "Lifeforge-app/lifeforge-module-ideaBox",
+    "repo": "Lifeforge-app/lifeforge-module-idea-box",
     "latest": "0.0.1",
     "versions": {
-      "0.0.1": "884ab7926479087451599e4ca1c6fa3aab23ff88"
+      "0.0.1": "69975f816156c6d0eb14d9612e0f8856942910bb"
     }
   },
   {
@@ -105,10 +105,10 @@
   },
   {
     "id": "lifeforge--moment-vault",
-    "repo": "Lifeforge-app/lifeforge-module-momentVault",
+    "repo": "Lifeforge-app/lifeforge-module-moment-vault",
     "latest": "0.0.1",
     "versions": {
-      "0.0.1": "7d66eb4f6843a13134fe0c229b52c4427fe3ecba"
+      "0.0.1": "e47c0c97b69f787fcfa05d25af73a1db9ab5c4ce"
     }
   },
   {
@@ -153,34 +153,34 @@
   },
   {
     "id": "lifeforge--pomodoro-timer",
-    "repo": "Lifeforge-app/lifeforge-module-pomodoroTimer",
+    "repo": "Lifeforge-app/lifeforge-module-pomodoro-timer",
     "latest": "0.0.1",
     "versions": {
-      "0.0.1": "1d0adf1bc1af5503d1a0383a2325e9481ad8cbc2"
+      "0.0.1": "9d5182692b0d737835747b51a75bab38d14060b6"
     }
   },
   {
     "id": "lifeforge--railway-map",
-    "repo": "Lifeforge-app/lifeforge-module-railwayMap",
+    "repo": "Lifeforge-app/lifeforge-module-railway-map",
     "latest": "0.0.1",
     "versions": {
-      "0.0.1": "dfb16763d5bcba66e97b92e856dd6b8ad67e0f50"
+      "0.0.1": "b6ae5453813fa5d6051008c02b0ec6cafeb27c32"
     }
   },
   {
     "id": "lifeforge--scores-library",
-    "repo": "Lifeforge-app/lifeforge-module-scoresLibrary",
+    "repo": "Lifeforge-app/lifeforge-module-scores-library",
     "latest": "0.0.1",
     "versions": {
-      "0.0.1": "ca237e889d5e607eea52be46d6df0386f445dbc8"
+      "0.0.1": "4e9f3e0586fe4de60a304bc41aaabb872df02482"
     }
   },
   {
     "id": "lifeforge--sin-chew-daily",
-    "repo": "Lifeforge-app/lifeforge-module-sinChewDaily",
+    "repo": "Lifeforge-app/lifeforge-module-sin-chew-daily",
     "latest": "0.0.1",
     "versions": {
-      "0.0.1": "940487b8e5c3dda09e3e5c2ffde8ffae0718c6c6"
+      "0.0.1": "ace1c64924d970b531ddaa435353e32e3e146d39"
     }
   },
   {
@@ -193,18 +193,18 @@
   },
   {
     "id": "lifeforge--todo-list",
-    "repo": "Lifeforge-app/lifeforge-module-todoList",
+    "repo": "Lifeforge-app/lifeforge-module-todo-list",
     "latest": "0.0.1",
     "versions": {
-      "0.0.1": "5bcee06b631f4c2054b91e78c2def25d2206a1c8"
+      "0.0.1": "bb844614098783b0cba69fa0ff8c3c6c0932c6ee"
     }
   },
   {
     "id": "lifeforge--utility-widgets",
-    "repo": "Lifeforge-app/lifeforge-module-localIpWidget",
+    "repo": "Lifeforge-app/lifeforge-module-local-ip-widget",
     "latest": "0.0.1",
     "versions": {
-      "0.0.1": "111617e04ef1762ef8556546f7b42c350345ffc4"
+      "0.0.1": "d7c9fcc0cfaec475b59b703906943f8774a49d1e"
     }
   },
   {
@@ -217,10 +217,10 @@
   },
   {
     "id": "melvinchia3636--invoice-maker",
-    "repo": "melvinchia3636/lifeforge-module-invoiceMaker",
+    "repo": "melvinchia3636/lifeforge-module-invoice-maker",
     "latest": "0.0.1",
     "versions": {
-      "0.0.1": "3a09c4bdcb9c1fe0a13c1d24cfc91b2c42812594"
+      "0.0.1": "26a0863b596eb3aa90119a519d22bd6999828361"
     }
   },
   {
@@ -233,10 +233,10 @@
   },
   {
     "id": "melvinchia3636--rental-payment-tracker",
-    "repo": "melvinchia3636/lifeforge-module-rentalPaymentTracker",
+    "repo": "melvinchia3636/lifeforge-module-rental-payment-tracker",
     "latest": "0.0.1",
     "versions": {
-      "0.0.1": "0cdd0919fbac0a4bd586a75ac2978cdb7e7bf0f6"
+      "0.0.1": "c60ae2f638abcf7c841a478e969fee6401826f4d"
     }
   },
   {
@@ -249,10 +249,10 @@
   },
   {
     "id": "melvinchia3636--vanilla-tweaks",
-    "repo": "melvinchia3636/lifeforge-module-vanillaTweaks",
+    "repo": "melvinchia3636/lifeforge-module-vanilla-tweaks",
     "latest": "0.0.1",
     "versions": {
-      "0.0.1": "0924391b37d3be45bb7553799fe427ec42799f07"
+      "0.0.1": "752d5fb0fa6cc066fbbadf8644f382f4b9fae766"
     }
   }
 ]
