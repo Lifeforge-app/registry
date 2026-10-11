@@ -1,0 +1,58 @@
+[
+  {
+    "id": "lifeforge--lang-ja",
+    "repo": "Lifeforge-app/lang-ja",
+    "latest": "0.0.1",
+    "versions": {
+      "0.0.1": "9a461d9e4f724a57b5345c6c096389cf09f73de9"
+    }
+  },
+  {
+    "id": "lifeforge--lang-ko",
+    "repo": "Lifeforge-app/lang-ko",
+    "latest": "0.0.1",
+    "versions": {
+      "0.0.1": "2132b0e576eb05c31cbc6af9c2fa417713e1bd49"
+    }
+  },
+  {
+    "id": "lifeforge--lang-lzh",
+    "repo": "Lifeforge-app/lang-lzh",
+    "latest": "0.0.1",
+    "versions": {
+      "0.0.1": "39c574f4862012100dc207520008bcffe8f43aaa"
+    }
+  },
+  {
+    "id": "lifeforge--lang-tr",
+    "repo": "Lifeforge-app/lang-tr",
+    "latest": "0.0.5",
+    "versions": {
+      "0.0.5": "b88f1ea81dea888d9ef4a886c544f7e46f5f6f18"
+    }
+  },
+  {
+    "id": "melvinchia3636--lang-ms",
+    "repo": "Lifeforge-app/lang-ms",
+    "latest": "0.0.5",
+    "versions": {
+      "0.0.5": "ad65811b5f50b77bea5b9240f04429505e3a5132"
+    }
+  },
+  {
+    "id": "melvinchia3636--lang-zh-CN",
+    "repo": "Lifeforge-app/lang-zh-CN",
+    "latest": "0.0.9",
+    "versions": {
+      "0.0.9": "f6cadbc3591c6c68623ceb682902b836eb1aeff4"
+    }
+  },
+  {
+    "id": "melvinchia3636--lang-zh-TW",
+    "repo": "Lifeforge-app/lang-zh-TW",
+    "latest": "0.0.6",
+    "versions": {
+      "0.0.6": "039d8bae071fc6f69fe409b2624c0aef093aec52"
+    }
+  }
+]
