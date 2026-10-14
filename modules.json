@@ -262,5 +262,13 @@
     "versions": {
       "0.0.2": "95c040097a5b06daeb7bdab96fab69901eaaf5d3"
     }
+  },
+  {
+    "id": "melvinchia3636--changi-airport-flight-status",
+    "repo": "melvinchia3636/lifeforge-module-changi-airport-flight-status",
+    "latest": "0.0.2",
+    "versions": {
+      "0.0.2": "1314efe60b3edb3afe2c5b1b8d298f32caaf2aa0"
+    }
   }
 ]
