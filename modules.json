@@ -48,22 +48,6 @@
     }
   },
   {
-    "id": "lifeforge--cfop-algorithms",
-    "repo": "Lifeforge-app/lifeforge-module-cfop-algorithms",
-    "latest": "0.0.1",
-    "versions": {
-      "0.0.1": "d63c56a97b968f8d0f70e6bd20cf8577818ccb76"
-    }
-  },
-  {
-    "id": "lifeforge--changi-airport-flight-status",
-    "repo": "Lifeforge-app/lifeforge-module-changi-airport-flight-status",
-    "latest": "0.0.1",
-    "versions": {
-      "0.0.1": "950097c201d478e19d41dad538b6dc403e4a9829"
-    }
-  },
-  {
     "id": "lifeforge--code-time",
     "repo": "Lifeforge-app/lifeforge-module-code-time",
     "latest": "0.0.1",
@@ -77,14 +61,6 @@
     "latest": "0.0.1",
     "versions": {
       "0.0.1": "39d5df00fe5ebc11a2c58325e3b3e4b3a4cfec62"
-    }
-  },
-  {
-    "id": "lifeforge--guitar-tuner",
-    "repo": "Lifeforge-app/lifeforge-module-guitar-tuner",
-    "latest": "0.0.1",
-    "versions": {
-      "0.0.1": "8431e638c65d785a8bd0fa69a77a0fc707ac203a"
     }
   },
   {
@@ -120,14 +96,6 @@
     }
   },
   {
-    "id": "lifeforge--mrt-map-builder",
-    "repo": "Lifeforge-app/mrt-map-builder",
-    "latest": "0.0.1",
-    "versions": {
-      "0.0.1": "1ac5eb856ff3d123e043f6c1572c10b1bf77eb43"
-    }
-  },
-  {
     "id": "lifeforge--music",
     "repo": "Lifeforge-app/lifeforge-module-music",
     "latest": "0.0.1",
@@ -157,30 +125,6 @@
     "latest": "0.0.1",
     "versions": {
       "0.0.1": "9d5182692b0d737835747b51a75bab38d14060b6"
-    }
-  },
-  {
-    "id": "lifeforge--railway-map",
-    "repo": "Lifeforge-app/lifeforge-module-railway-map",
-    "latest": "0.0.1",
-    "versions": {
-      "0.0.1": "b6ae5453813fa5d6051008c02b0ec6cafeb27c32"
-    }
-  },
-  {
-    "id": "lifeforge--scores-library",
-    "repo": "Lifeforge-app/lifeforge-module-scores-library",
-    "latest": "0.0.1",
-    "versions": {
-      "0.0.1": "4e9f3e0586fe4de60a304bc41aaabb872df02482"
-    }
-  },
-  {
-    "id": "lifeforge--sin-chew-daily",
-    "repo": "Lifeforge-app/lifeforge-module-sin-chew-daily",
-    "latest": "0.0.1",
-    "versions": {
-      "0.0.1": "ace1c64924d970b531ddaa435353e32e3e146d39"
     }
   },
   {
