@@ -278,5 +278,13 @@
     "versions": {
       "0.0.2": "8366a217a1a28b42120f27cc26b5c9dced048a35"
     }
+  },
+  {
+    "id": "melvinchia3636--mrt-map-builder",
+    "repo": "melvinchia3636/lifeforge-module-mrt-map-builder",
+    "latest": "0.0.2",
+    "versions": {
+      "0.0.2": "fc56d0dfe84e0ac914f9949cb203f8a255a66479"
+    }
   }
 ]
