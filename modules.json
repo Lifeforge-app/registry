@@ -294,5 +294,13 @@
     "versions": {
       "0.0.2": "41fa24cee051a642095cf00856a3af3acc2e7c92"
     }
+  },
+  {
+    "id": "melvinchia3636--scores-library",
+    "repo": "melvinchia3636/lifeforge-module-scores-library",
+    "latest": "0.0.2",
+    "versions": {
+      "0.0.2": "41d86ddb3488607d7810c183bd2af303b0495372"
+    }
   }
 ]
