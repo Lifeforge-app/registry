@@ -254,5 +254,13 @@
     "versions": {
       "0.0.1": "752d5fb0fa6cc066fbbadf8644f382f4b9fae766"
     }
+  },
+  {
+    "id": "melvinchia3636--cfop-algorithms",
+    "repo": "melvinchia3636/lifeforge-module-cfop-algorithms",
+    "latest": "0.0.2",
+    "versions": {
+      "0.0.2": "95c040097a5b06daeb7bdab96fab69901eaaf5d3"
+    }
   }
 ]
