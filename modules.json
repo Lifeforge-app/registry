@@ -270,5 +270,13 @@
     "versions": {
       "0.0.2": "1314efe60b3edb3afe2c5b1b8d298f32caaf2aa0"
     }
+  },
+  {
+    "id": "melvinchia3636--guitar-tuner",
+    "repo": "melvinchia3636/lifeforge-module-guitar-tuner",
+    "latest": "0.0.2",
+    "versions": {
+      "0.0.2": "8366a217a1a28b42120f27cc26b5c9dced048a35"
+    }
   }
 ]
