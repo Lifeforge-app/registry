@@ -187,10 +187,11 @@
   {
     "id": "melvinchia3636--truckers-log",
     "repo": "melvinchia3636/lifeforge-module-truckers-log",
-    "latest": "0.0.2",
+    "latest": "0.0.3",
     "versions": {
       "0.0.1": "f9d81dd03bf61cee5068e45ec6d6c2030dfa1f75",
-      "0.0.2": "3046988210464715ae1967bf43bca674fa3f7c58"
+      "0.0.2": "3046988210464715ae1967bf43bca674fa3f7c58",
+      "0.0.3": "d7759e7cf98dd1b4483dde51e86c6e0df9bc396c"
     }
   },
   {
