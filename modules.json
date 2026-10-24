@@ -164,10 +164,11 @@
   {
     "id": "lifeforge--wallet",
     "repo": "lifeforge-app/lifeforge-module-wallet",
-    "latest": "0.0.2",
+    "latest": "0.0.3",
     "versions": {
       "0.0.1": "98fbfa39886cc20c62e182842937ea327c3c9526",
-      "0.0.2": "871ef11aaf2340c14a7025c97c7bf1b0c2a6f962"
+      "0.0.2": "871ef11aaf2340c14a7025c97c7bf1b0c2a6f962",
+      "0.0.3": "502f4cde3bcdfe5529b0808f215aa0fb666ecd2e"
     }
   },
   {
