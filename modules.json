@@ -9,10 +9,11 @@
   },
   {
     "id": "lifeforge--air-quality",
-    "repo": "melvinchia3636/lifeforge-module-air-quality",
-    "latest": "0.0.1",
+    "repo": "lifeforge-app/lifeforge-module-air-quality",
+    "latest": "0.0.3",
     "versions": {
-      "0.0.1": "b23286251d080af3d2830dd212af06fffc8fc3fd"
+      "0.0.1": "b23286251d080af3d2830dd212af06fffc8fc3fd",
+      "0.0.3": "14e4fbc85bc2b9c1c017fa7a9578e96685feaf86"
     }
   },
   {
