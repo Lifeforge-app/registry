@@ -278,5 +278,13 @@
     "versions": {
       "0.0.2": "2edcf7195dea66c45c8bc78570a5a3d417568614"
     }
+  },
+  {
+    "id": "melvinchia3636--home-assistant",
+    "repo": "melvinchia3636/lifeforge-module-home-assistant",
+    "latest": "0.0.3",
+    "versions": {
+      "0.0.3": "a0aa4f6a1c3d7ff515c5466d991b1c83f8e81689"
+    }
   }
 ]
