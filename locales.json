@@ -11,9 +11,10 @@
   {
     "id": "lifeforge--lang-ko",
     "repo": "Lifeforge-app/lang-ko",
-    "latest": "0.0.1",
+    "latest": "0.0.2",
     "versions": {
-      "0.0.1": "2132b0e576eb05c31cbc6af9c2fa417713e1bd49"
+      "0.0.1": "2132b0e576eb05c31cbc6af9c2fa417713e1bd49",
+      "0.0.2": "de08de2cf5c1fe32214e7956d28261d4785aa499"
     }
   },
   {
