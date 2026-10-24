@@ -20,9 +20,10 @@
   {
     "id": "lifeforge--lang-lzh",
     "repo": "Lifeforge-app/lang-lzh",
-    "latest": "0.0.1",
+    "latest": "0.0.2",
     "versions": {
-      "0.0.1": "39c574f4862012100dc207520008bcffe8f43aaa"
+      "0.0.1": "39c574f4862012100dc207520008bcffe8f43aaa",
+      "0.0.2": "da5dea9ed91f6982456a7e933e8c4fa0290b59d1"
     }
   },
   {
