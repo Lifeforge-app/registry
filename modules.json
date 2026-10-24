@@ -26,11 +26,12 @@
   {
     "id": "lifeforge--astronomy-widgets",
     "repo": "lifeforge-app/lifeforge-module-astronomy-widgets",
-    "latest": "0.0.4",
+    "latest": "0.0.5",
     "versions": {
       "0.0.1": "a913064aa8a3545459677c8b4e8ee42ddc44fca2",
       "0.0.3": "6fa82a9655c609d3412f9307d804c8d898f7d121",
-      "0.0.4": "5c105d949138dd0efeeb5a5f29fe543bd0ee474e"
+      "0.0.4": "5c105d949138dd0efeeb5a5f29fe543bd0ee474e",
+      "0.0.5": "b196798f73ec0bbe672a4830c2f4ffbe3cf59bf2"
     }
   },
   {
