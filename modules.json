@@ -126,10 +126,11 @@
   },
   {
     "id": "lifeforge--passwords",
-    "repo": "Lifeforge-app/lifeforge-module-passwords",
-    "latest": "0.0.1",
+    "repo": "lifeforge-app/lifeforge-module-passwords",
+    "latest": "0.0.2",
     "versions": {
-      "0.0.1": "6332815be066c73a59c6a71b5ce4ba9839c3388f"
+      "0.0.1": "6332815be066c73a59c6a71b5ce4ba9839c3388f",
+      "0.0.2": "715c0b9a7882b4cb21086700031a430b3b1194ba"
     }
   },
   {
