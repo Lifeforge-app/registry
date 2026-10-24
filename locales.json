@@ -45,10 +45,11 @@
   },
   {
     "id": "melvinchia3636--lang-zh-CN",
-    "repo": "Lifeforge-app/lang-zh-CN",
-    "latest": "0.0.9",
+    "repo": "Lifeforge-app/lang-zh-cn",
+    "latest": "0.0.11",
     "versions": {
-      "0.0.9": "f6cadbc3591c6c68623ceb682902b836eb1aeff4"
+      "0.0.9": "f6cadbc3591c6c68623ceb682902b836eb1aeff4",
+      "0.0.11": "d8eaf0406ac05bb6bc4394dfc995e913933c3356"
     }
   },
   {
