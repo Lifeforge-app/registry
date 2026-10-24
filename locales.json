@@ -2,9 +2,10 @@
   {
     "id": "lifeforge--lang-ja",
     "repo": "Lifeforge-app/lang-ja",
-    "latest": "0.0.1",
+    "latest": "0.0.3",
     "versions": {
-      "0.0.1": "9a461d9e4f724a57b5345c6c096389cf09f73de9"
+      "0.0.1": "9a461d9e4f724a57b5345c6c096389cf09f73de9",
+      "0.0.3": "1a222bfc48dd335050cdcb3cbd6e0f5416eb6353"
     }
   },
   {
