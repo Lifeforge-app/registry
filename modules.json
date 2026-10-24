@@ -37,9 +37,10 @@
   {
     "id": "lifeforge--books-library",
     "repo": "Lifeforge-app/lifeforge-module-books-library",
-    "latest": "0.0.1",
+    "latest": "0.0.2",
     "versions": {
-      "0.0.1": "90f3687689a834ff6aeb9fd0fbb9a891a009e673"
+      "0.0.1": "90f3687689a834ff6aeb9fd0fbb9a891a009e673",
+      "0.0.2": "489fc680abb10bb99acf06bc090e50fc1e581908"
     }
   },
   {
