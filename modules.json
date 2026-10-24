@@ -20,9 +20,10 @@
   {
     "id": "lifeforge--api-endpoint-explorer",
     "repo": "Lifeforge-app/lifeforge-module-api-endpoint-explorer",
-    "latest": "0.0.1",
+    "latest": "0.0.2",
     "versions": {
-      "0.0.1": "4afc944c92b2bd70da3a84c3fa267a079315b95f"
+      "0.0.1": "4afc944c92b2bd70da3a84c3fa267a079315b95f",
+      "0.0.2": "39cc526d40c9d616f04650cad58c3bf67b139802"
     }
   },
   {
