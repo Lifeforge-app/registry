@@ -37,9 +37,10 @@
   {
     "id": "melvinchia3636--lang-ms",
     "repo": "Lifeforge-app/lang-ms",
-    "latest": "0.0.5",
+    "latest": "0.0.6",
     "versions": {
-      "0.0.5": "ad65811b5f50b77bea5b9240f04429505e3a5132"
+      "0.0.5": "ad65811b5f50b77bea5b9240f04429505e3a5132",
+      "0.0.6": "e1a2def966d26023b85fc68d20e6a448faecf985"
     }
   },
   {
