@@ -261,9 +261,10 @@
   {
     "id": "melvinchia3636--railway-map",
     "repo": "melvinchia3636/lifeforge-module-railway-map",
-    "latest": "0.0.2",
+    "latest": "0.0.3",
     "versions": {
-      "0.0.2": "41fa24cee051a642095cf00856a3af3acc2e7c92"
+      "0.0.2": "41fa24cee051a642095cf00856a3af3acc2e7c92",
+      "0.0.3": "dcb802afdd8264a85da662db90f1d1b68b035821"
     }
   },
   {
