@@ -165,10 +165,11 @@
   {
     "id": "lifeforge--todo-list",
     "repo": "Lifeforge-app/lifeforge-module-todo-list",
-    "latest": "0.0.2",
+    "latest": "0.0.3",
     "versions": {
       "0.0.1": "bb844614098783b0cba69fa0ff8c3c6c0932c6ee",
-      "0.0.2": "7a5795a12a64d9a589425880a5cdad106129930a"
+      "0.0.2": "7a5795a12a64d9a589425880a5cdad106129930a",
+      "0.0.3": "ee55be00a775c80a389599e29281e22b0574afe1"
     }
   },
   {
