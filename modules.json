@@ -71,9 +71,10 @@
   {
     "id": "lifeforge--currency-converter",
     "repo": "Lifeforge-app/lifeforge-module-currency-converter",
-    "latest": "0.0.1",
+    "latest": "0.0.2",
     "versions": {
-      "0.0.1": "39d5df00fe5ebc11a2c58325e3b3e4b3a4cfec62"
+      "0.0.1": "39d5df00fe5ebc11a2c58325e3b3e4b3a4cfec62",
+      "0.0.2": "8299f9909581feb158bd5cd868ca53c2d497a679"
     }
   },
   {
