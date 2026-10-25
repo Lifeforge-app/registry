@@ -191,9 +191,10 @@
   {
     "id": "melvinchia3636--invoice-maker",
     "repo": "melvinchia3636/lifeforge-module-invoice-maker",
-    "latest": "0.0.1",
+    "latest": "0.0.2",
     "versions": {
-      "0.0.1": "26a0863b596eb3aa90119a519d22bd6999828361"
+      "0.0.1": "26a0863b596eb3aa90119a519d22bd6999828361",
+      "0.0.2": "2c8c76d90c5786605a06d54ed7a52cdf58dcafc6"
     }
   },
   {
