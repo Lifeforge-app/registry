@@ -106,10 +106,11 @@
   },
   {
     "id": "lifeforge--movies",
-    "repo": "Lifeforge-app/lifeforge-module-movies",
-    "latest": "0.0.1",
+    "repo": "lifeforge-app/lifeforge-module-movies",
+    "latest": "0.0.2",
     "versions": {
-      "0.0.1": "f49c0a658c453ed008cbf341d8af668e2ef45fda"
+      "0.0.1": "f49c0a658c453ed008cbf341d8af668e2ef45fda",
+      "0.0.2": "85c51cd42cfa7c92755e366f29a6d7d94583615f"
     }
   },
   {
