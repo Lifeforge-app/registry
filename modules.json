@@ -116,10 +116,11 @@
   {
     "id": "lifeforge--music",
     "repo": "lifeforge-app/lifeforge-module-music",
-    "latest": "0.0.2",
+    "latest": "0.0.3",
     "versions": {
       "0.0.1": "ccfed1bd1e0e06938a4bd06f6a0e2d2579636aa7",
-      "0.0.2": "6527c19ccc21fe6ff85018dd3fc00308340b5ea7"
+      "0.0.2": "6527c19ccc21fe6ff85018dd3fc00308340b5ea7",
+      "0.0.3": "7d6ae7dac841dcf8ff74f062d824ff20c3c606cd"
     }
   },
   {
