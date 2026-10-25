@@ -129,9 +129,10 @@
   {
     "id": "lifeforge--owntracks",
     "repo": "Lifeforge-app/lifeforge-module-owntracks",
-    "latest": "0.0.1",
+    "latest": "0.0.2",
     "versions": {
-      "0.0.1": "fdbe892ce5d969600ae01e4413ef3789e1446762"
+      "0.0.1": "fdbe892ce5d969600ae01e4413ef3789e1446762",
+      "0.0.2": "9c2746c08166f62587c0a235d1421bf380efcdf4"
     }
   },
   {
