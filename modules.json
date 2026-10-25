@@ -209,10 +209,11 @@
   {
     "id": "melvinchia3636--rental-payment-tracker",
     "repo": "melvinchia3636/lifeforge-module-rental-payment-tracker",
-    "latest": "0.0.2",
+    "latest": "0.0.3",
     "versions": {
       "0.0.1": "c60ae2f638abcf7c841a478e969fee6401826f4d",
-      "0.0.2": "d41f403e1add20e00c9fa9119b4bdcd31e140315"
+      "0.0.2": "d41f403e1add20e00c9fa9119b4bdcd31e140315",
+      "0.0.3": "535e40e983ad07428f38bcc16e2be0e9d4dc2d6f"
     }
   },
   {
