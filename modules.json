@@ -151,10 +151,11 @@
   },
   {
     "id": "lifeforge--sudoku",
-    "repo": "Lifeforge-app/lifeforge-module-sudoku",
-    "latest": "0.0.1",
+    "repo": "lifeforge-app/lifeforge-module-sudoku",
+    "latest": "0.0.2",
     "versions": {
-      "0.0.1": "7ec1c7eeb55894eb9f863c889a3e119da93a052f"
+      "0.0.1": "7ec1c7eeb55894eb9f863c889a3e119da93a052f",
+      "0.0.2": "8ae284481b6a852b5452597f4e62bcba87780f72"
     }
   },
   {
