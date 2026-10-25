@@ -303,9 +303,10 @@
   {
     "id": "melvinchia3636--sin-chew-daily",
     "repo": "melvinchia3636/lifeforge-module-sin-chew-daily",
-    "latest": "0.0.2",
+    "latest": "0.0.3",
     "versions": {
-      "0.0.2": "2edcf7195dea66c45c8bc78570a5a3d417568614"
+      "0.0.2": "2edcf7195dea66c45c8bc78570a5a3d417568614",
+      "0.0.3": "0f40d53dc51133a1f7950070b62d7bf677071999"
     }
   },
   {
