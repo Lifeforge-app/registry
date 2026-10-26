@@ -322,10 +322,11 @@
   {
     "id": "melvinchia3636--mrt-map-builder",
     "repo": "melvinchia3636/lifeforge-module-mrt-map-builder",
-    "latest": "0.0.3",
+    "latest": "0.0.4",
     "versions": {
       "0.0.2": "fc56d0dfe84e0ac914f9949cb203f8a255a66479",
-      "0.0.3": "76afeac1bc3d324535a64da784bf7f273a21d4a9"
+      "0.0.3": "76afeac1bc3d324535a64da784bf7f273a21d4a9",
+      "0.0.4": "4bc8193f916a700789082dd4ef3fbc8fb54ad536"
     }
   },
   {
