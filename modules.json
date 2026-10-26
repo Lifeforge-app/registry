@@ -157,12 +157,13 @@
   {
     "id": "lifeforge--passwords",
     "repo": "lifeforge-app/lifeforge-module-passwords",
-    "latest": "0.0.4",
+    "latest": "0.0.5",
     "versions": {
       "0.0.1": "6332815be066c73a59c6a71b5ce4ba9839c3388f",
       "0.0.2": "715c0b9a7882b4cb21086700031a430b3b1194ba",
       "0.0.3": "f3dfa66a199878cb88837b7df20cf749cd13ccd2",
-      "0.0.4": "a6e71e59e037dbb3df7e609b495968d83efb5a53"
+      "0.0.4": "a6e71e59e037dbb3df7e609b495968d83efb5a53",
+      "0.0.5": "f7159c215d83f49f0d7a79a38092a9331dfccc2c"
     }
   },
   {
