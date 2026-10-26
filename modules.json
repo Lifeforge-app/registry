@@ -347,11 +347,12 @@
   {
     "id": "melvinchia3636--scores-library",
     "repo": "melvinchia3636/lifeforge-module-scores-library",
-    "latest": "0.0.4",
+    "latest": "0.0.5",
     "versions": {
       "0.0.2": "41d86ddb3488607d7810c183bd2af303b0495372",
       "0.0.3": "5f29821d4af1c659d276a3aa0cac0dfc2e09641b",
-      "0.0.4": "55c6f1ea0f5c5857eba47ce144c0724342e6550e"
+      "0.0.4": "55c6f1ea0f5c5857eba47ce144c0724342e6550e",
+      "0.0.5": "071d9e1e403fe099d164f39faae1759ace89e16a"
     }
   },
   {
