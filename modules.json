@@ -240,11 +240,12 @@
   {
     "id": "melvinchia3636--modrinth",
     "repo": "melvinchia3636/lifeforge-module-modrinth",
-    "latest": "0.0.3",
+    "latest": "0.0.4",
     "versions": {
       "0.0.1": "34142e82b02b9fe00e467ad15a37fab13dc42f04",
       "0.0.2": "9800ae167e4039fa5ff5ced59dbfd7147af230c4",
-      "0.0.3": "851434124d700c9b3b28c8bb6d40cd69366fe06b"
+      "0.0.3": "851434124d700c9b3b28c8bb6d40cd69366fe06b",
+      "0.0.4": "7a63241202d696d236490d21a14492d4bf16e0a6"
     }
   },
   {
