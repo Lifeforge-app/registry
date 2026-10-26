@@ -332,14 +332,15 @@
   {
     "id": "melvinchia3636--railway-map",
     "repo": "melvinchia3636/lifeforge-module-railway-map",
-    "latest": "0.0.7",
+    "latest": "0.0.8",
     "versions": {
       "0.0.2": "41fa24cee051a642095cf00856a3af3acc2e7c92",
       "0.0.3": "dcb802afdd8264a85da662db90f1d1b68b035821",
       "0.0.4": "8afabf8c10afee7e14a21d6fec58e32636a3a1ee",
       "0.0.5": "d1a0720b2dd65ca605fba3f10b97d14572580d7b",
       "0.0.6": "757d8c44b284eddf404766909a98fcb6261d3d20",
-      "0.0.7": "17e9433a79993d4b8c2f5a9a4af7d3b43d80e96c"
+      "0.0.7": "17e9433a79993d4b8c2f5a9a4af7d3b43d80e96c",
+      "0.0.8": "821e65925d9e9452689b7f1b7e660f8081d18294"
     }
   },
   {
