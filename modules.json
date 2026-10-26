@@ -46,12 +46,13 @@
   {
     "id": "lifeforge--books-library",
     "repo": "Lifeforge-app/lifeforge-module-books-library",
-    "latest": "0.0.4",
+    "latest": "0.0.5",
     "versions": {
       "0.0.1": "90f3687689a834ff6aeb9fd0fbb9a891a009e673",
       "0.0.2": "489fc680abb10bb99acf06bc090e50fc1e581908",
       "0.0.3": "dea0597b964932a75685fecf058bba8f11642fe5",
-      "0.0.4": "cf782fac57cd126e2868cf7b98f559be8e9338ae"
+      "0.0.4": "cf782fac57cd126e2868cf7b98f559be8e9338ae",
+      "0.0.5": "88dc3824b7aa9a5df8d28f0c5b5fdf24154e8974"
     }
   },
   {
