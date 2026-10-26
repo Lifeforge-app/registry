@@ -360,9 +360,10 @@
   {
     "id": "melvinchia3636--home-assistant",
     "repo": "melvinchia3636/lifeforge-module-home-assistant",
-    "latest": "0.0.3",
+    "latest": "0.0.4",
     "versions": {
-      "0.0.3": "a0aa4f6a1c3d7ff515c5466d991b1c83f8e81689"
+      "0.0.3": "a0aa4f6a1c3d7ff515c5466d991b1c83f8e81689",
+      "0.0.4": "85e3958601cb9187168ea2d1621e82977d3fcb46"
     }
   }
 ]
