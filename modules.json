@@ -2,10 +2,11 @@
   {
     "id": "lifeforge--achievements",
     "repo": "lifeforge-app/lifeforge-module-achievements",
-    "latest": "0.0.2",
+    "latest": "0.0.3",
     "versions": {
       "0.0.1": "fe6b91a3b848866770eb05a17b13a3d28434f425",
-      "0.0.2": "a801d01210414a39c3c8eed63c72edc0ce55c76d"
+      "0.0.2": "a801d01210414a39c3c8eed63c72edc0ce55c76d",
+      "0.0.3": "a3c77505cc1cb8af16c0d40e6cfa05836e5bcaaa"
     }
   },
   {
