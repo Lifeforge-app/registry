@@ -154,10 +154,11 @@
   {
     "id": "lifeforge--pomodoro-timer",
     "repo": "Lifeforge-app/lifeforge-module-pomodoro-timer",
-    "latest": "0.0.2",
+    "latest": "0.0.3",
     "versions": {
       "0.0.1": "9d5182692b0d737835747b51a75bab38d14060b6",
-      "0.0.2": "5457c575697f4a15dc1e0b118a0b0f88ff7d9445"
+      "0.0.2": "5457c575697f4a15dc1e0b118a0b0f88ff7d9445",
+      "0.0.3": "a969084cbeabe8ba8289b6f11a651374d3a998cd"
     }
   },
   {
