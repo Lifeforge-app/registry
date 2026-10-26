@@ -256,10 +256,11 @@
   {
     "id": "melvinchia3636--cfop-algorithms",
     "repo": "melvinchia3636/lifeforge-module-cfop-algorithms",
-    "latest": "0.0.3",
+    "latest": "0.0.4",
     "versions": {
       "0.0.2": "95c040097a5b06daeb7bdab96fab69901eaaf5d3",
-      "0.0.3": "5d16c122f4bf8407338cc9af85bd711332c1251e"
+      "0.0.3": "5d16c122f4bf8407338cc9af85bd711332c1251e",
+      "0.0.4": "84af3e13040c5072d3dea39014bc663070107bac"
     }
   },
   {
