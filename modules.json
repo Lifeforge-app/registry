@@ -71,12 +71,13 @@
   {
     "id": "lifeforge--code-time",
     "repo": "Lifeforge-app/lifeforge-module-code-time",
-    "latest": "0.0.4",
+    "latest": "0.0.5",
     "versions": {
       "0.0.1": "e2f727d6af91d2f06bd2521400d8782500bdcd59",
       "0.0.2": "9a0e33195d4bb33ce50e31dd16f90efbbdfdaff0",
       "0.0.3": "4707846d16deddc35ca3c94675c20cb47283f6f8",
-      "0.0.4": "a0aced4a2185a89d3a7d91dd2656340ddd7b04dd"
+      "0.0.4": "a0aced4a2185a89d3a7d91dd2656340ddd7b04dd",
+      "0.0.5": "92ef64be09a0019705575dd14d70de2398e5c49d"
     }
   },
   {
