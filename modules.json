@@ -94,10 +94,11 @@
   {
     "id": "lifeforge--idea-box",
     "repo": "Lifeforge-app/lifeforge-module-idea-box",
-    "latest": "0.0.2",
+    "latest": "0.0.3",
     "versions": {
       "0.0.1": "69975f816156c6d0eb14d9612e0f8856942910bb",
-      "0.0.2": "03625cc76ef8cf3c909f85d280bb74c6bbba1472"
+      "0.0.2": "03625cc76ef8cf3c909f85d280bb74c6bbba1472",
+      "0.0.3": "62477e70688117b14f7aaefc829624f6e8000336"
     }
   },
   {
