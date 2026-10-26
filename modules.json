@@ -112,11 +112,12 @@
   {
     "id": "lifeforge--moment-vault",
     "repo": "Lifeforge-app/lifeforge-module-moment-vault",
-    "latest": "0.0.3",
+    "latest": "0.0.4",
     "versions": {
       "0.0.1": "e47c0c97b69f787fcfa05d25af73a1db9ab5c4ce",
       "0.0.2": "4d448a575da8380c2c2a4072de97cb2f66a6bc85",
-      "0.0.3": "5eecaf0381240912c1165173058b3f59e7347259"
+      "0.0.3": "5eecaf0381240912c1165173058b3f59e7347259",
+      "0.0.4": "40a30b3683b1b895ff35de89be6742432d5e1a17"
     }
   },
   {
