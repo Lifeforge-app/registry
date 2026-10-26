@@ -299,10 +299,11 @@
   {
     "id": "melvinchia3636--changi-airport-flight-status",
     "repo": "melvinchia3636/lifeforge-module-changi-airport-flight-status",
-    "latest": "0.0.3",
+    "latest": "0.0.4",
     "versions": {
       "0.0.2": "1314efe60b3edb3afe2c5b1b8d298f32caaf2aa0",
-      "0.0.3": "643e9d67072dd8886192e02c9efbde4a1fd2ec50"
+      "0.0.3": "643e9d67072dd8886192e02c9efbde4a1fd2ec50",
+      "0.0.4": "dd48288bf59dfd425b01ee7e44afa55a02d85f1f"
     }
   },
   {
