@@ -12,10 +12,11 @@
   {
     "id": "lifeforge--air-quality",
     "repo": "lifeforge-app/lifeforge-module-air-quality",
-    "latest": "0.0.3",
+    "latest": "0.0.4",
     "versions": {
       "0.0.1": "b23286251d080af3d2830dd212af06fffc8fc3fd",
-      "0.0.3": "14e4fbc85bc2b9c1c017fa7a9578e96685feaf86"
+      "0.0.3": "14e4fbc85bc2b9c1c017fa7a9578e96685feaf86",
+      "0.0.4": "304ce0c4ef3fc546e1b63b8cba2a8e6345235074"
     }
   },
   {
