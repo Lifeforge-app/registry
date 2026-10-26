@@ -51,11 +51,12 @@
   {
     "id": "lifeforge--calendar",
     "repo": "lifeforge-app/lifeforge-module-calendar",
-    "latest": "0.0.3",
+    "latest": "0.0.4",
     "versions": {
       "0.0.1": "c6bc850bf15fe222cdab84e2fbd9fda4442d3c8b",
       "0.0.2": "2957551c0a1ae472a74a73c3670fde1219664893",
-      "0.0.3": "4e2655e6b990b5045c79733154d95aa7d30ff101"
+      "0.0.3": "4e2655e6b990b5045c79733154d95aa7d30ff101",
+      "0.0.4": "1188901c3817f5ebb4a5bef530280c6182271612"
     }
   },
   {
