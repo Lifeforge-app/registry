@@ -376,5 +376,13 @@
       "0.0.3": "a0aa4f6a1c3d7ff515c5466d991b1c83f8e81689",
       "0.0.4": "85e3958601cb9187168ea2d1621e82977d3fcb46"
     }
+  },
+  {
+    "id": "melvinchia3636--mc-schematic-storage",
+    "repo": "melvinchia3636/lifeforge-module-mc-schematic-storage",
+    "latest": "0.0.2",
+    "versions": {
+      "0.0.2": "1f45206a00e91784cb75feac8a81f6d1cfe5a069"
+    }
   }
 ]
