@@ -204,12 +204,13 @@
   {
     "id": "lifeforge--utility-widgets",
     "repo": "Lifeforge-app/lifeforge-module-local-ip-widget",
-    "latest": "0.0.4",
+    "latest": "0.0.5",
     "versions": {
       "0.0.1": "d7c9fcc0cfaec475b59b703906943f8774a49d1e",
       "0.0.2": "b1a6c4621cc2630c73ce963461d3881e8d21abb2",
       "0.0.3": "cc548741daade6e143cf02cb4e5c861a34c4ca50",
-      "0.0.4": "3baf1b251a86c725a89eda484ed84d1c4ae1c7a7"
+      "0.0.4": "3baf1b251a86c725a89eda484ed84d1c4ae1c7a7",
+      "0.0.5": "d6406c10af467255cd21cf2d31716b88a8f0042a"
     }
   },
   {
